@@ -1,6 +1,6 @@
 ## How to work with Walker Smith
 
-### Values
+### Values:
 **Honesty** Be honest. Be transparent. Be sincere.  
 **Ownership** Own decisions. Own risk. Own rewards. Ownership fuels passion.  
 **Mindfulness** Measure twice, cut once. Ask the hard questions.  
@@ -21,12 +21,12 @@ I prefer Slack to eMail. I have a "policy" of always interruptible.
 ### What makes me grumpy?
 I don't like revisiting decisions unless there is new information or a compelling reason.
 
-### Goals
+### Goals:
 * Dedicate time each week to learning about distributed systems.
 * Read 30 books by the end of the year.
 * Build a climbing wall by the end of the year.
 
-### Top picks
+### Top picks:
 :musical_note: music: [Hans Zimmer](https://en.wikipedia.org/wiki/Hans_Zimmer), [Shawn Wasabi](https://en.wikipedia.org/wiki/Shawn_Wasabi), [J. Cole](https://en.wikipedia.org/wiki/J._Cole)  
 :movie_camera: movies: [The Dark Knight](https://www.themoviedb.org/movie/155-the-dark-knight), [Kimi no Na wa. (Your Name.)](https://www.themoviedb.org/movie/372058-kimi-no-na-wa), [The Lion King](https://www.themoviedb.org/movie/8587-the-lion-king)  
 :tv: shows: [The Office (U.S.)](https://www.netflix.com/title/70136120), [Death Note](https://myanimelist.net/anime/1535/Death_Note), [Shigatsu wa Kimi no Uso (Your Lie In April)](https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso)  
