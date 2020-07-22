@@ -18,31 +18,6 @@ What I'd like to think about, my interests, and what I'm currently working on.
 ### What’s the best way to reach me?
 I dislike email chains and prefer Slack. I prefer to chat in public channels so decisions can be more easily shared. I have a "policy" of always interruptible. 
 
-### How I want others to communicate with me:
-I seek popularity and social recognition. I like to deal with people in
-a favorable social environment. I want to be seen not only as a team player,
-but also as a leader of the team. I do not like close supervision. I am
-driven by status and power. I like to develop people and build
-organizations. I like feedback from his manager on how he is doing. I am
- good at creating enthusiasm in others. I may be careless with details.
-I have a strong ego and usually projects this ego in friendly terms. I, an
-outgoing person, feels at home with strangers.
-
-### How I communicate with others:
-I tend to influence people to his way of thinking by using verbiage as
-compared with others who like to use reports. It is important for me to use
-my people skills to "facilitate" agreement between people. I tend to look at
-all the things the group has in common, rather than key in on the differences.
-Sometimes I can get caught short on the facts and figures needed to support
-my ideas. I am people-oriented and verbally fluent. I usually uses many
-gestures when talking. I have the ability to look at the whole problem; for
-example, thinking about relationships, being concerned about the feelings of
-others and focusing on the real impact of my decisions and actions. I am
-comfortable with most people and can be quite informal and relaxed with them.
-Even when dealing with strangers, I will attempt to put them at ease. I
-tend to mask some of my directness in friendly terms and is usually recognized
-as a friendly and trusting person.
-
 ### What makes me grumpy?
 I don't like revisiting decisions unless there is new information or a compelling reason.
 
